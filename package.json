@@ -1,0 +1,25 @@
+{
+  "name": "module_26",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unecspectedusername/module_26.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unecspectedusername/module_26/issues"
+  },
+  "homepage": "https://github.com/unecspectedusername/module_26#readme",
+  "devDependencies": {
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
